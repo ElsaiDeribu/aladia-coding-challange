@@ -1,0 +1,348 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "https://images.unsplash.com/photo-1546549032-9571cd6b27df",
+      "title": "Classic Spaghetti Carbonara",
+      "rating": 4.8,
+      "category": "Italian",
+      "ingredients": [
+        "400g spaghetti",
+        "200g pancetta",
+        "4 large eggs",
+        "100g Pecorino Romano",
+        "Black pepper"
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to boil",
+        "Cook pasta according to package instructions",
+        "Meanwhile, crisp the pancetta in a large pan",
+        "Whisk eggs and cheese in a bowl",
+        "Combine everything while pasta is hot"
+      ]
+    },
+    {
+      "id": 2,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca",
+      "title": "Margherita Pizza",
+      "rating": 4.5,
+      "category": "Italian",
+      "ingredients": [
+        "Pizza dough",
+        "Fresh mozzarella",
+        "Fresh basil",
+        "Tomato sauce",
+        "Olive oil"
+      ],
+      "instructions": [
+        "Preheat oven to 450°F",
+        "Roll out the pizza dough",
+        "Spread tomato sauce",
+        "Add cheese and bake",
+        "Garnish with fresh basil"
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Beef Bulgogi",
+      "rating": 4.7,
+      "category": "Korean",
+      "ingredients": [
+        "500g beef",
+        "Soy sauce",
+        "Asian pear",
+        "Garlic",
+        "Sesame oil"
+      ],
+      "instructions": [
+        "Marinate beef",
+        "Cook in hot pan",
+        "Garnish and serve"
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd",
+      "title": "Green Curry",
+      "rating": 4.6,
+      "category": "Thai",
+      "ingredients": ["Curry paste", "Coconut milk", "Chicken", "Vegetables"],
+      "instructions": [
+        "Cook curry paste",
+        "Add coconut milk",
+        "Add chicken and vegetables"
+      ]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Pad Thai",
+      "rating": 4.5,
+      "category": "Thai",
+      "ingredients": ["Rice noodles", "Shrimp", "Tofu", "Bean sprouts"],
+      "instructions": ["Soak noodles", "Stir-fry ingredients", "Add sauce"]
+    },
+    {
+      "id": 6,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Sushi Roll",
+      "rating": 4.9,
+      "category": "Japanese",
+      "ingredients": ["Sushi rice", "Nori", "Fish", "Vegetables"],
+      "instructions": ["Prepare rice", "Roll ingredients", "Slice and serve"]
+    },
+    {
+      "id": 7,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1569718212165-3a8278d5f624",
+      "title": "Ramen",
+      "rating": 4.8,
+      "category": "Japanese",
+      "ingredients": ["Noodles", "Broth", "Chashu pork", "Egg"],
+      "instructions": ["Make broth", "Cook noodles", "Assemble bowl"]
+    },
+    {
+      "id": 8,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db",
+      "title": "Butter Chicken",
+      "rating": 4.7,
+      "category": "Indian",
+      "ingredients": ["Chicken", "Butter", "Cream", "Spices"],
+      "instructions": ["Marinate chicken", "Make sauce", "Combine and simmer"]
+    },
+    {
+      "id": 9,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8",
+      "title": "Biryani",
+      "rating": 4.6,
+      "category": "Indian",
+      "ingredients": ["Basmati rice", "Meat", "Spices", "Onions"],
+      "instructions": ["Layer ingredients", "Steam cook", "Garnish and serve"]
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b",
+      "title": "Tacos al Pastor",
+      "rating": 4.8,
+      "category": "Mexican",
+      "ingredients": ["Pork", "Pineapple", "Tortillas", "Cilantro"],
+      "instructions": ["Marinate pork", "Cook on spit", "Serve in tortillas"]
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://images.unsplash.com/photo-1546833999-b9f581a1996d",
+      "title": "Coq au Vin",
+      "rating": 4.7,
+      "category": "French",
+      "ingredients": ["Chicken", "Red wine", "Mushrooms", "Pearl onions"],
+      "instructions": [
+        "Brown chicken",
+        "Make wine sauce",
+        "Slow cook until tender"
+      ]
+    },
+    {
+      "id": 12,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1608855238293-a8853e7f7c98",
+      "title": "Beef Bourguignon",
+      "rating": 4.9,
+      "category": "French",
+      "ingredients": ["Beef chuck", "Red wine", "Bacon", "Vegetables"],
+      "instructions": ["Brown meat", "Prepare sauce", "Slow cook"]
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+      "title": "Moussaka",
+      "rating": 4.6,
+      "category": "Greek",
+      "ingredients": ["Eggplant", "Ground lamb", "Béchamel", "Tomatoes"],
+      "instructions": ["Layer ingredients", "Make sauce", "Bake until golden"]
+    },
+    {
+      "id": 14,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      "title": "Paella",
+      "rating": 4.7,
+      "category": "Spanish",
+      "ingredients": ["Rice", "Seafood", "Saffron", "Vegetables"],
+      "instructions": ["Toast rice", "Add broth", "Layer with seafood"]
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1562967916-eb82221dfb92",
+      "title": "Pho",
+      "rating": 4.8,
+      "category": "Vietnamese",
+      "ingredients": ["Rice noodles", "Beef", "Bean sprouts", "Herbs"],
+      "instructions": ["Make broth", "Cook noodles", "Assemble bowl"]
+    },
+    {
+      "id": 16,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Dim Sum",
+      "rating": 4.6,
+      "category": "Chinese",
+      "ingredients": ["Various fillings", "Wrappers", "Sauces"],
+      "instructions": ["Prepare fillings", "Wrap dumplings", "Steam"]
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://images.unsplash.com/photo-1547928576-965be7f5f6b2",
+      "title": "Schnitzel",
+      "rating": 4.5,
+      "category": "German",
+      "ingredients": ["Veal", "Breadcrumbs", "Eggs", "Lemon"],
+      "instructions": ["Pound meat", "Bread cutlets", "Fry until golden"]
+    },
+    {
+      "id": 18,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1516684732162-798a0062be99",
+      "title": "Tiramisu",
+      "rating": 4.9,
+      "category": "Italian",
+      "ingredients": ["Ladyfingers", "Coffee", "Mascarpone", "Cocoa"],
+      "instructions": ["Dip cookies", "Layer cream", "Chill overnight"]
+    },
+    {
+      "id": 19,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1539755530862-00f623c00f52",
+      "title": "Fish and Chips",
+      "rating": 4.4,
+      "category": "British",
+      "ingredients": ["Cod", "Potatoes", "Beer batter", "Tartar sauce"],
+      "instructions": ["Make batter", "Fry fish", "Serve with chips"]
+    },
+    {
+      "id": 20,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+      "title": "Falafel",
+      "rating": 4.5,
+      "category": "Middle Eastern",
+      "ingredients": ["Chickpeas", "Herbs", "Spices", "Tahini"],
+      "instructions": ["Blend ingredients", "Form balls", "Fry until crispy"]
+    },
+    {
+      "id": 21,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1534939561126-855b8675edd7",
+      "title": "Tom Yum Soup",
+      "rating": 4.7,
+      "category": "Thai",
+      "ingredients": ["Shrimp", "Lemongrass", "Chili", "Lime"],
+      "instructions": ["Make broth", "Add seafood", "Season to taste"]
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://images.unsplash.com/photo-1546549032-9571cd6b27df",
+      "title": "Goulash",
+      "rating": 4.6,
+      "category": "Hungarian",
+      "ingredients": ["Beef", "Paprika", "Onions", "Caraway"],
+      "instructions": ["Brown meat", "Add spices", "Simmer slowly"]
+    },
+    {
+      "id": 23,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "California Roll",
+      "rating": 4.4,
+      "category": "Japanese-American",
+      "ingredients": ["Crab", "Avocado", "Cucumber", "Rice"],
+      "instructions": ["Prepare rice", "Roll ingredients", "Slice"]
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Pad See Ew",
+      "rating": 4.6,
+      "category": "Thai",
+      "ingredients": [
+        "Wide rice noodles",
+        "Chicken",
+        "Chinese broccoli",
+        "Sauce"
+      ],
+      "instructions": ["Stir-fry noodles", "Add vegetables", "Season"]
+    },
+    {
+      "id": 25,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Kimchi Jjigae",
+      "rating": 4.8,
+      "category": "Korean",
+      "ingredients": ["Kimchi", "Pork belly", "Tofu", "Gochugaru"],
+      "instructions": ["Simmer kimchi", "Add meat", "Cook until tender"]
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Shakshuka",
+      "rating": 4.7,
+      "category": "Middle Eastern",
+      "ingredients": ["Eggs", "Tomatoes", "Peppers", "Spices"],
+      "instructions": ["Make sauce", "Poach eggs", "Serve hot"]
+    },
+    {
+      "id": 27,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Tempura",
+      "rating": 4.5,
+      "category": "Japanese",
+      "ingredients": [
+        "Shrimp",
+        "Vegetables",
+        "Tempura batter",
+        "Dipping sauce"
+      ],
+      "instructions": ["Make batter", "Fry items", "Serve immediately"]
+    },
+    {
+      "id": 28,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Bibimbap",
+      "rating": 4.6,
+      "category": "Korean",
+      "ingredients": ["Rice", "Vegetables", "Beef", "Gochujang"],
+      "instructions": [
+        "Prepare toppings",
+        "Arrange in bowl",
+        "Mix before eating"
+      ]
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Chicken Tikka",
+      "rating": 4.8,
+      "category": "Indian",
+      "ingredients": ["Chicken", "Yogurt", "Spices", "Lime"],
+      "instructions": ["Marinate chicken", "Grill", "Serve with naan"]
+    },
+    {
+      "id": 30,
+      "imageUrl":
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Miso Soup",
+      "rating": 4.3,
+      "category": "Japanese",
+      "ingredients": ["Dashi", "Miso paste", "Tofu", "Seaweed"],
+      "instructions": ["Make dashi", "Add miso", "Add toppings"]
+    }
+    
+  ]
