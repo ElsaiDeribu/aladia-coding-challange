@@ -5,16 +5,17 @@
       "title": "Classic Spaghetti Carbonara",
       "rating": 4.8,
       "category": "Italian",
+      "continent": "european",
       "ingredients": [
         "400g spaghetti",
-        "200g pancetta",
+        "200g pancetta", 
         "4 large eggs",
         "100g Pecorino Romano",
         "Black pepper"
       ],
       "instructions": [
         "Bring a large pot of salted water to boil",
-        "Cook pasta according to package instructions",
+        "Cook pasta according to package instructions", 
         "Meanwhile, crisp the pancetta in a large pan",
         "Whisk eggs and cheese in a bowl",
         "Combine everything while pasta is hot"
@@ -22,11 +23,11 @@
     },
     {
       "id": 2,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca",
+      "imageUrl": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca",
       "title": "Margherita Pizza",
       "rating": 4.5,
-      "category": "Italian",
+      "category": "Italian", 
+      "continent": "european",
       "ingredients": [
         "Pizza dough",
         "Fresh mozzarella",
@@ -44,14 +45,14 @@
     },
     {
       "id": 3,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19", 
       "title": "Beef Bulgogi",
       "rating": 4.7,
       "category": "Korean",
+      "continent": "asian",
       "ingredients": [
         "500g beef",
-        "Soy sauce",
+        "Soy sauce", 
         "Asian pear",
         "Garlic",
         "Sesame oil"
@@ -64,11 +65,11 @@
     },
     {
       "id": 4,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd",
+      "imageUrl": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd",
       "title": "Green Curry",
       "rating": 4.6,
       "category": "Thai",
+      "continent": "asian", 
       "ingredients": ["Curry paste", "Coconut milk", "Chicken", "Vegetables"],
       "instructions": [
         "Cook curry paste",
@@ -82,46 +83,47 @@
       "title": "Pad Thai",
       "rating": 4.5,
       "category": "Thai",
+      "continent": "asian",
       "ingredients": ["Rice noodles", "Shrimp", "Tofu", "Bean sprouts"],
       "instructions": ["Soak noodles", "Stir-fry ingredients", "Add sauce"]
     },
     {
       "id": 6,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
       "title": "Sushi Roll",
       "rating": 4.9,
       "category": "Japanese",
+      "continent": "asian",
       "ingredients": ["Sushi rice", "Nori", "Fish", "Vegetables"],
       "instructions": ["Prepare rice", "Roll ingredients", "Slice and serve"]
     },
     {
       "id": 7,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1569718212165-3a8278d5f624",
+      "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624",
       "title": "Ramen",
       "rating": 4.8,
       "category": "Japanese",
+      "continent": "asian",
       "ingredients": ["Noodles", "Broth", "Chashu pork", "Egg"],
       "instructions": ["Make broth", "Cook noodles", "Assemble bowl"]
     },
     {
       "id": 8,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db",
+      "imageUrl": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db",
       "title": "Butter Chicken",
       "rating": 4.7,
       "category": "Indian",
+      "continent": "asian",
       "ingredients": ["Chicken", "Butter", "Cream", "Spices"],
       "instructions": ["Marinate chicken", "Make sauce", "Combine and simmer"]
     },
     {
       "id": 9,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8",
+      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8",
       "title": "Biryani",
       "rating": 4.6,
       "category": "Indian",
+      "continent": "asian",
       "ingredients": ["Basmati rice", "Meat", "Spices", "Onions"],
       "instructions": ["Layer ingredients", "Steam cook", "Garnish and serve"]
     },
@@ -131,6 +133,7 @@
       "title": "Tacos al Pastor",
       "rating": 4.8,
       "category": "Mexican",
+      "continent": "american",
       "ingredients": ["Pork", "Pineapple", "Tortillas", "Cilantro"],
       "instructions": ["Marinate pork", "Cook on spit", "Serve in tortillas"]
     },
@@ -140,20 +143,21 @@
       "title": "Coq au Vin",
       "rating": 4.7,
       "category": "French",
+      "continent": "european",
       "ingredients": ["Chicken", "Red wine", "Mushrooms", "Pearl onions"],
       "instructions": [
         "Brown chicken",
-        "Make wine sauce",
+        "Make wine sauce", 
         "Slow cook until tender"
       ]
     },
     {
       "id": 12,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1608855238293-a8853e7f7c98",
+      "imageUrl": "https://images.unsplash.com/photo-1608855238293-a8853e7f7c98",
       "title": "Beef Bourguignon",
       "rating": 4.9,
       "category": "French",
+      "continent": "european",
       "ingredients": ["Beef chuck", "Red wine", "Bacon", "Vegetables"],
       "instructions": ["Brown meat", "Prepare sauce", "Slow cook"]
     },
@@ -163,16 +167,17 @@
       "title": "Moussaka",
       "rating": 4.6,
       "category": "Greek",
+      "continent": "european",
       "ingredients": ["Eggplant", "Ground lamb", "Béchamel", "Tomatoes"],
       "instructions": ["Layer ingredients", "Make sauce", "Bake until golden"]
     },
     {
       "id": 14,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
       "title": "Paella",
       "rating": 4.7,
       "category": "Spanish",
+      "continent": "european",
       "ingredients": ["Rice", "Seafood", "Saffron", "Vegetables"],
       "instructions": ["Toast rice", "Add broth", "Layer with seafood"]
     },
@@ -182,16 +187,17 @@
       "title": "Pho",
       "rating": 4.8,
       "category": "Vietnamese",
+      "continent": "asian",
       "ingredients": ["Rice noodles", "Beef", "Bean sprouts", "Herbs"],
       "instructions": ["Make broth", "Cook noodles", "Assemble bowl"]
     },
     {
       "id": 16,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
       "title": "Dim Sum",
       "rating": 4.6,
       "category": "Chinese",
+      "continent": "asian",
       "ingredients": ["Various fillings", "Wrappers", "Sauces"],
       "instructions": ["Prepare fillings", "Wrap dumplings", "Steam"]
     },
@@ -201,46 +207,47 @@
       "title": "Schnitzel",
       "rating": 4.5,
       "category": "German",
+      "continent": "european",
       "ingredients": ["Veal", "Breadcrumbs", "Eggs", "Lemon"],
       "instructions": ["Pound meat", "Bread cutlets", "Fry until golden"]
     },
     {
       "id": 18,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1516684732162-798a0062be99",
+      "imageUrl": "https://images.unsplash.com/photo-1516684732162-798a0062be99",
       "title": "Tiramisu",
       "rating": 4.9,
       "category": "Italian",
+      "continent": "european",
       "ingredients": ["Ladyfingers", "Coffee", "Mascarpone", "Cocoa"],
       "instructions": ["Dip cookies", "Layer cream", "Chill overnight"]
     },
     {
       "id": 19,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1539755530862-00f623c00f52",
+      "imageUrl": "https://images.unsplash.com/photo-1539755530862-00f623c00f52",
       "title": "Fish and Chips",
       "rating": 4.4,
       "category": "British",
+      "continent": "european",
       "ingredients": ["Cod", "Potatoes", "Beer batter", "Tartar sauce"],
       "instructions": ["Make batter", "Fry fish", "Serve with chips"]
     },
     {
       "id": 20,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
+      "imageUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187",
       "title": "Falafel",
       "rating": 4.5,
       "category": "Middle Eastern",
+      "continent": "asian",
       "ingredients": ["Chickpeas", "Herbs", "Spices", "Tahini"],
       "instructions": ["Blend ingredients", "Form balls", "Fry until crispy"]
     },
     {
       "id": 21,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1534939561126-855b8675edd7",
+      "imageUrl": "https://images.unsplash.com/photo-1534939561126-855b8675edd7",
       "title": "Tom Yum Soup",
       "rating": 4.7,
       "category": "Thai",
+      "continent": "asian",
       "ingredients": ["Shrimp", "Lemongrass", "Chili", "Lime"],
       "instructions": ["Make broth", "Add seafood", "Season to taste"]
     },
@@ -250,16 +257,17 @@
       "title": "Goulash",
       "rating": 4.6,
       "category": "Hungarian",
+      "continent": "european",
       "ingredients": ["Beef", "Paprika", "Onions", "Caraway"],
       "instructions": ["Brown meat", "Add spices", "Simmer slowly"]
     },
     {
       "id": 23,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
       "title": "California Roll",
       "rating": 4.4,
       "category": "Japanese-American",
+      "continent": "american",
       "ingredients": ["Crab", "Avocado", "Cucumber", "Rice"],
       "instructions": ["Prepare rice", "Roll ingredients", "Slice"]
     },
@@ -269,9 +277,10 @@
       "title": "Pad See Ew",
       "rating": 4.6,
       "category": "Thai",
+      "continent": "asian",
       "ingredients": [
         "Wide rice noodles",
-        "Chicken",
+        "Chicken", 
         "Chinese broccoli",
         "Sauce"
       ],
@@ -279,11 +288,11 @@
     },
     {
       "id": 25,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
       "title": "Kimchi Jjigae",
       "rating": 4.8,
       "category": "Korean",
+      "continent": "asian",
       "ingredients": ["Kimchi", "Pork belly", "Tofu", "Gochugaru"],
       "instructions": ["Simmer kimchi", "Add meat", "Cook until tender"]
     },
@@ -293,16 +302,17 @@
       "title": "Shakshuka",
       "rating": 4.7,
       "category": "Middle Eastern",
+      "continent": "asian",
       "ingredients": ["Eggs", "Tomatoes", "Peppers", "Spices"],
       "instructions": ["Make sauce", "Poach eggs", "Serve hot"]
     },
     {
       "id": 27,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
       "title": "Tempura",
       "rating": 4.5,
       "category": "Japanese",
+      "continent": "asian",
       "ingredients": [
         "Shrimp",
         "Vegetables",
@@ -313,11 +323,11 @@
     },
     {
       "id": 28,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
       "title": "Bibimbap",
       "rating": 4.6,
       "category": "Korean",
+      "continent": "asian",
       "ingredients": ["Rice", "Vegetables", "Beef", "Gochujang"],
       "instructions": [
         "Prepare toppings",
@@ -331,18 +341,218 @@
       "title": "Chicken Tikka",
       "rating": 4.8,
       "category": "Indian",
+      "continent": "asian",
       "ingredients": ["Chicken", "Yogurt", "Spices", "Lime"],
       "instructions": ["Marinate chicken", "Grill", "Serve with naan"]
     },
     {
       "id": 30,
-      "imageUrl":
-        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
       "title": "Miso Soup",
       "rating": 4.3,
       "category": "Japanese",
+      "continent": "asian",
       "ingredients": ["Dashi", "Miso paste", "Tofu", "Seaweed"],
       "instructions": ["Make dashi", "Add miso", "Add toppings"]
+    },
+    {
+      "id": 31,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Hamburger",
+      "rating": 4.5,
+      "category": "American",
+      "continent": "american",
+      "ingredients": ["Ground beef", "Bun", "Lettuce", "Tomato"],
+      "instructions": ["Form patty", "Grill", "Assemble burger"]
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Mac and Cheese",
+      "rating": 4.4,
+      "category": "American",
+      "continent": "american",
+      "ingredients": ["Macaroni", "Cheddar", "Milk", "Butter"],
+      "instructions": ["Cook pasta", "Make cheese sauce", "Combine"]
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Poutine",
+      "rating": 4.6,
+      "category": "Canadian",
+      "continent": "american",
+      "ingredients": ["French fries", "Gravy", "Cheese curds"],
+      "instructions": ["Fry potatoes", "Add gravy", "Top with cheese"]
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Jollof Rice",
+      "rating": 4.7,
+      "category": "Nigerian",
+      "continent": "african",
+      "ingredients": ["Rice", "Tomatoes", "Peppers", "Spices"],
+      "instructions": ["Cook sauce", "Add rice", "Simmer until done"]
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Couscous",
+      "rating": 4.5,
+      "category": "Moroccan",
+      "continent": "african",
+      "ingredients": ["Couscous", "Vegetables", "Meat", "Spices"],
+      "instructions": ["Steam couscous", "Cook stew", "Serve together"]
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Bobotie",
+      "rating": 4.6,
+      "category": "South African",
+      "continent": "african",
+      "ingredients": ["Ground meat", "Eggs", "Bread", "Curry powder"],
+      "instructions": ["Prepare meat", "Add custard", "Bake"]
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Kangaroo Steak",
+      "rating": 4.4,
+      "category": "Australian",
+      "continent": "oceanian",
+      "ingredients": ["Kangaroo meat", "Native herbs", "Oil"],
+      "instructions": ["Season meat", "Grill", "Rest before serving"]
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Pavlova",
+      "rating": 4.8,
+      "category": "New Zealand",
+      "continent": "oceanian",
+      "ingredients": ["Egg whites", "Sugar", "Fruit", "Cream"],
+      "instructions": ["Make meringue", "Bake", "Top with fruit"]
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Hangi",
+      "rating": 4.6,
+      "category": "Maori",
+      "continent": "oceanian",
+      "ingredients": ["Meat", "Vegetables", "Herbs"],
+      "instructions": ["Prepare pit", "Layer food", "Cook underground"]
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Vegemite Toast",
+      "rating": 4.2,
+      "category": "Australian",
+      "continent": "oceanian",
+      "ingredients": ["Bread", "Butter", "Vegemite"],
+      "instructions": ["Toast bread", "Spread butter", "Add vegemite"]
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Lamington",
+      "rating": 4.5,
+      "category": "Australian",
+      "continent": "oceanian",
+      "ingredients": ["Sponge cake", "Chocolate", "Coconut"],
+      "instructions": ["Cut cake", "Dip in chocolate", "Roll in coconut"]
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Injera",
+      "rating": 4.6,
+      "category": "Ethiopian",
+      "continent": "african",
+      "ingredients": ["Teff flour", "Water", "Salt"],
+      "instructions": ["Ferment batter", "Cook on griddle"]
+    },
+    {
+      "id": 43,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Doro Wat",
+      "rating": 4.7,
+      "category": "Ethiopian",
+      "continent": "african",
+      "ingredients": ["Chicken", "Berbere", "Onions", "Eggs"],
+      "instructions": ["Prepare sauce", "Cook chicken", "Add boiled eggs"]
+    },
+    {
+      "id": 44,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Enchiladas",
+      "rating": 4.6,
+      "category": "Mexican",
+      "continent": "american",
+      "ingredients": ["Tortillas", "Meat", "Cheese", "Sauce"],
+      "instructions": ["Fill tortillas", "Roll", "Top with sauce"]
+    },
+    {
+      "id": 45,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Poutine",
+      "rating": 4.5,
+      "category": "Canadian",
+      "continent": "american",
+      "ingredients": ["Fries", "Gravy", "Cheese curds"],
+      "instructions": ["Fry potatoes", "Add gravy", "Top with cheese"]
+    },
+    {
+      "id": 46,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Thieboudienne",
+      "rating": 4.8,
+      "category": "Senegalese",
+      "continent": "african",
+      "ingredients": ["Fish", "Rice", "Vegetables", "Spices"],
+      "instructions": ["Cook fish", "Prepare rice", "Combine"]
+    },
+    {
+      "id": 47,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Cheeseburger",
+      "rating": 4.4,
+      "category": "American",
+      "continent": "american",
+      "ingredients": ["Beef patty", "Cheese", "Bun", "Toppings"],
+      "instructions": ["Grill patty", "Melt cheese", "Assemble"]
+    },
+    {
+      "id": 48,
+      "imageUrl": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "title": "Poi",
+      "rating": 4.3,
+      "category": "Hawaiian",
+      "continent": "oceanian",
+      "ingredients": ["Taro root", "Water"],
+      "instructions": ["Cook taro", "Pound", "Ferment"]
+    },
+    {
+      "id": 49,
+      "imageUrl": "https://images.unsplash.com/photo-1551024709-8f23befc6f87",
+      "title": "Fufu",
+      "rating": 4.5,
+      "category": "Nigerian",
+      "continent": "african",
+      "ingredients": ["Cassava", "Plantains"],
+      "instructions": ["Pound ingredients", "Form balls", "Serve with soup"]
+    },
+    {
+      "id": 50,
+      "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+      "title": "Loco Moco",
+      "rating": 4.6,
+      "category": "Hawaiian",
+      "continent": "oceanian",
+      "ingredients": ["Rice", "Hamburger", "Gravy", "Egg"],
+      "instructions": ["Cook rice", "Grill burger", "Top with egg and gravy"]
     }
-    
   ]

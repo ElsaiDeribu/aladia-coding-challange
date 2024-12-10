@@ -1,6 +1,6 @@
-# **MyStore**
+# **Recipe Book**
 
-A modern e-commerce web application built with Nuxt.js, Vue 3, Tailwind CSS, and following the Atomic Design methodology.
+A modern recipe browsing web application built with Nuxt.js, Vue 3, and Tailwind CSS, following the Atomic Design methodology.
 
 ## **Table of Contents**
 
@@ -16,98 +16,91 @@ A modern e-commerce web application built with Nuxt.js, Vue 3, Tailwind CSS, and
 
 ## **Features**
 
-- **Nuxt.js Framework**: Built on Nuxt.js for enhanced SEO and server-side rendering capabilities
-- **Responsive Design**: Fully responsive layout that adapts to various screen sizes
+- **Recipe Browsing**: Browse recipes by category, continent, and rating
+- **Detailed Recipe Views**: View ingredients, instructions, and images for each recipe
+
 - **Atomic Design**: Organized components following the Atomic Design methodology
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
+- **Tailwind CSS**: Utility-first CSS framework for clean and maintainable styling
 - **Storybook Integration**: Interactive UI component development and testing environment
-- **Dynamic Data Fetching**: Integration with external APIs for product management
+- **Recipe Data Management**: JSON-based recipe data with comprehensive recipe details
 
 ---
 
 ## **Project Structure**
-
 ```
 root/
 ├── components/
+│ ├── atoms/ # Basic UI elements
+│ │ ├── Badge.vue # Category and tag badges
+│ │ ├── ...
+│ ├── molecules/ # Compound components
+│ │ ├── CookingInstructions.vue # Recipe steps
+│ │ ├── ...
+│ ├── organisms/ # Complex components
+│ │ ├── BookDetails.vue # Full recipe view
+│ │ ├── ...
+│ └── template/ # Page templates
+│   └── Recipe.vue # Main recipe page template
+├── layouts/
+│   └── default.vue # Default page layout
+├── pages/
+│   └── index.vue # Main entry page
+├── assets/
+│   └── css/
+│     └── tailwind.css # Tailwind base styles
+├── mock/
+│   └── books.json # Recipe database
+├── stories/ # Storybook stories
 │   ├── atoms/
 │   ├── molecules/
-│   ├── organisms/
-│   ├── templates/
-├── pages/
-│   └── index.vue
-├── assets/
-├── public/
-├── stories/
-├── .storybook/
+│   └── organisms/
+├── .storybook/ # Storybook configuration
 ├── package.json
 ├── nuxt.config.ts
 ├── tailwind.config.js
 └── README.md
 ```
-
----
-
 ## **Getting Started**
 
-### **Prerequisites**
+### Prerequisites
 
 - Node.js (v16 or higher)
-- npm or yarn
+- npm or yarn package manager
 
-### **Installation**
+### Installation
 
-1. **Clone the repository:**
+1. Clone the repository:
+```bash
+git https://github.com/ElsaiDeribu/aladia-coding-challange.git
+```
 
-   ```bash
-   git clone [your-repository-url]
-   ```
+2. Install dependencies:
+```bash
+npm install
+# or
+yarn install
+```
 
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd mystore
-   ```
-
-3. **Install dependencies:**
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-### **Running the Development Server**
+### Running the Development Server
 
 Start the development server:
-
 ```bash
 npm run dev
 # or
 yarn dev
 ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `http://localhost:3000`
 
-### **Running Storybook**
+### Running Storybook
 
-Launch Storybook to view and interact with UI components:
-
+Launch Storybook for component development:
 ```bash
 npm run storybook
 # or
 yarn storybook
 ```
 
-Storybook will start on `http://localhost:6006`.
+Storybook will be available at `http://localhost:6006`
 
----
 
-## **Additional Notes**
-
-- This project uses modern web development practices and follows Vue.js best practices
-- The application demonstrates scalable architecture using Atomic Design principles
-
----
-
-Thank you for checking out **MyStore**!
